@@ -76,7 +76,7 @@ I don't have any CS related so far but I added this section
 
 Task List:
 - [x] Do Group Survey
-- [x]  Do Financial Aid Survey
+- [x] Do Financial Aid Survey
 - [ ] Finish Lab #1 for CSE 110
 
 
