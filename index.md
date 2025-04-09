@@ -8,14 +8,10 @@ System.out.println("Welcome to my Page!")
 
 
 ## Section Links:
-- [Svetlana Bobiles' User Page](#svetlana-bobiles-user-page)
-  - [Section Links:](#section-links)
-  - [Relative Links:](#relative-links)
-  - [Fun Links (External):](#fun-links-external)
-    - [Languages I'm familiar with](#languages-im-familiar-with)
-    - [Relevant Past Course Work](#relevant-past-course-work)
-    - [Experience](#experience)
-    - [Personal Interests](#personal-interests)
+1. [Languages](#languages-im-familiar-with)
+2. [Course Work](#relevant-past-course-work)
+3. [Experience](#experience)
+4. [Personal Interests](#personal-interests)
 
 ## Relative Links:
 5. [README](README.md)
